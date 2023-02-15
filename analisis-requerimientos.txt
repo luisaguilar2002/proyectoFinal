@@ -1,0 +1,15 @@
+La empresa de seguros TK-U realiza cientos de cotizaciones todos los dias para sus potenciales clientes pero actualmente las cotizaciones se hacen de manera manual, lo cual hace que el proceso sea lento y se limite a solo 50 cotizaciones diarias. Esto causa que la empresa se retrase a la hora de entregar las cotizaciones y hace que pierdan potenciales clientes.
+
+Casos a considerar:
+
+1. La persona debe ser mayor de edad, de lo contrario el caso no es considerado.
+2. Se tiene un plan base al que se le pueden aplicar recargos extra dependiendo de las condiciones del asegurado. Las condiciones son las siguientes:
+  - Dependiendo de la edad del asegurado
+  - Dependiendo de si el asegurado está casado o no y dependiendo también de la edad del esposo/a del asegurado
+  - Dependiendo de la cantidad de hijos o hijas que tenga el asegurado.
+
+Estos cargos son basados en rangos de edades que se explican a continuacion:
+
+- Si tienen de 18 a 24 años, se les hará un recargo del 10% del precio base.
+- Si tienen de 25 a 49 años, se les hará un recargo del 20% del precio base.
+- Si tienen 50 años o más, se les hará un recargo del 30% del precio base. Este recargo se aplica individualmente para el asegurado y el cónyuge,
