@@ -1,0 +1,15 @@
+Pasos del algoritmo:
+
+1. Pedir al cliente que ingrese su nombre.
+2. Pedirle al cliente que ingrese su edad, unicamente en numeros.
+3. Validar que el cliente haya ingresado unicamente numeros en la edad.
+4. Validar que el cliente sea mayor de edad basado en la edad que ingreso.
+5. Preguntarle al cliente si esta casado actualmente.
+6. En caso de que el cliente este casado, debemos pedirle que se ingrese la edad del conyugue, de lo contrario no se pide ese dato.
+7. Convertir la edad del conyugue en un numero.
+8. Preguntarle al cliente si tiene hijos o hijas.
+9. En caso de que el cliente tenga hijos, preguntar la cantidad de hijos o hijas. En caso contrario, no preguntar.
+10. En caso el cliente tenga hijos o hijas, convertir la cantidad de los hijos en un numero.
+11. Luego de pedirle los datos al cliente, realizar el recargo correspondiente a la edad del cliente y sumarlo al recargo total. Si tienen de 18 a 24 años, se les hará un recargo del 10% del precio base. Si tienen de 25 a 49 años, se les hará un recargo del 20% del precio base. Si tienen 50 años o más, se les hará un recargo del 30% del precio base.
+12. Aplicar el recargo correspondiente a la edad de la pareja del conyugue.
+13. Aplicar el recargo correspondiente a la cantidad de hijos del cliente. EN este caso seria el 20%
